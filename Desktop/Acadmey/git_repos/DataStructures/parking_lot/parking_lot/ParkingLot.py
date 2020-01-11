@@ -1,0 +1,2 @@
+class ParkingLot:
+    pass 
